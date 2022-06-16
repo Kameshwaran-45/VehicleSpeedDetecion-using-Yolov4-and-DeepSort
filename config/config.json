@@ -1,0 +1,16 @@
+{
+  "input" : "sample.avi",
+  "classes_list" : ["car","truck","motorbike","bus"],
+  "range" : {
+  "1" : 455,
+  "2" : 365,
+  "3" : 308,
+  "4" : 300,
+  "5" : 348,
+  "6" : 426
+  },
+  "tolerance" : 10,
+  "axis" : 1,
+  "save_video" : "true",
+  "motion_draw" : "true"
+}
